@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "mohamed-amine.bahri@eurecom.fr",
+    "project": "eurecomgpt-512717",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.9.2, build a82e528",
+    "present": true
+  },
+  "git": {
+    "remote": "git@github.com:amine-bahri/Clouds-Lab-EurecomGPT.git",
+    "is_github": true,
+    "slug": "amine-bahri/Clouds-Lab-EurecomGPT"
+  }
+}
