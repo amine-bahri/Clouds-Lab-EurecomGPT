@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 574.706,
+    "vectorized_ms": 1.024,
+    "speedup": 561.24
+  },
+  "threads": {
+    "1": 2307.415,
+    "2": 2016.666,
+    "4": 2894.594,
+    "8": 2662.488
+  },
+  "devices": {
+    "cpu_ms": 444630.2,
+    "gpu_ms": 12690.7
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.5468,
+    "param_count": 4935680
+  },
+  "sample": "\nAy, you falsen how specrate, breaths: maylard\nAs gracious for his deadster'd, or musch heaven:\nThat say hors, He to that bramsition:\nBid give we home made to home, of urches,\nWith shoop the plant that",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/eurecomgpt-512717-eurecomgpt/model.safetensors"
+  }
+}
